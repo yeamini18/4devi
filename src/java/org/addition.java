@@ -6,6 +6,7 @@ public class addition {
 		int b=20;
 		int c;
 			 c=a+b;
+			 c=a-b;
 	}
 
 }
